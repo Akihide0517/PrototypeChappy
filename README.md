@@ -1,6 +1,10 @@
 # Typ-p01
 
-技術検証用自立思考型会話ロボット　プロトタイプチャッピー　の最小構成のコード群です。
+技術検証用自立思考型会話ロボット　プロトタイプCHAPPYの最小構成のコード群です。
+
+### C.H.A.P.P.Y.:
+
+	•	Conversational Human-like Assistant for Personalized Phrase-based Yielding
 
 ### 以下の機器を使用します
 
