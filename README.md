@@ -2,6 +2,8 @@
 
 技術検証用自立思考型会話ロボット　プロトタイプCHAPPYの最小構成のコード群です。
 
+文書生成以外はすべてローカル環境で完結するのが利点です。(将来的にはTinySwallow-1.5Bをラズパイ5Bに搭載して完全ローカル化したい...)
+
 ### C.H.A.P.P.Y.:
 
 	•	Conversational Human-like Assistant for Personalized Phrase-based Yielding
