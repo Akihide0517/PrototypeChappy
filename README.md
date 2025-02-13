@@ -1,4 +1,4 @@
-# Typ-p01
+#  Chp-p01
 
 技術検証用自立思考型会話ロボット　プロトタイプCHAPPYの最小構成のコード群です。
 
@@ -20,7 +20,7 @@
 
 基本的にファイル名と同じ機械に対し、同名ファイル内のプログラムを一つだけ選んで実行可能にすればおK
 
-例：M5Core2 -> PrototypeTyappii/M5Core2/M5REC-USB.ino を実行可能な状態で書き込む
+例：M5Core2 -> PrototypeChappy/M5Core2/M5REC-USB.ino を実行可能な状態で書き込む
 
 ## 注意
 
