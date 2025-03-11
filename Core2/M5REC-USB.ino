@@ -6,8 +6,8 @@
 m5avatar::Avatar avatar;
 
 // WiFi設定
-const char *ssid = "Y.A_Mac_mini";
-const char *password = "damakatu0517";
+const char *ssid = "ssid";
+const char *password = "pass";
 const char *udp_address = "172.20.10.3";  // 送信先IP
 const int udp_port = 5000;                  // 送信先ポート
 
