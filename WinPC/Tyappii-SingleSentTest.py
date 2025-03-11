@@ -12,7 +12,7 @@ import google.generativeai as genai
 
 # 環境変数の読み込み
 load_dotenv()
-genai.configure(api_key="AIzaSyA7VAUw3wOtuxKjnHGkxzh1PvVFn8YurjY")
+genai.configure(api_key="key")
 
 # UDP サーバーの設定
 UDP_IP = "0.0.0.0"
